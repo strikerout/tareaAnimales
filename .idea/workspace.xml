@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/clasesruben/Calculos.java" line="18" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3128553c-4af5-49d5-bc05-b06f695f1792" name="Default Changelist" comment="" />
+    <list default="true" id="3128553c-4af5-49d5-bc05-b06f695f1792" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
