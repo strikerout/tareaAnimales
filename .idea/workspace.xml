@@ -4,12 +4,18 @@
     <bookmark url="file://$PROJECT_DIR$/src/clasesruben/Calculos.java" line="18" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="3128553c-4af5-49d5-bc05-b06f695f1792" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+=======
     <list default="true" id="3128553c-4af5-49d5-bc05-b06f695f1792" name="Default Changelist" comment="" />
 <<<<<<< HEAD
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
 =======
 >>>>>>> e6da71c27692343d94bc7eb4c1cb44d6f4cea87e
+>>>>>>> 1f739c349dbc67a8fb5ee80d54d753fc60c83a20
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
