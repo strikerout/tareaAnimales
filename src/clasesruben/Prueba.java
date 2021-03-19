@@ -6,7 +6,11 @@ public class Prueba {
         System.out.println("holis");
         System.out.println("holis2");
         System.out.println("holis3");
+<<<<<<< HEAD
         System.out.println("Nestor4 1");
+=======
+        System.out.println("Nestor4 2");
+>>>>>>> Desarrollo1
     }
 
 }
