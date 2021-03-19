@@ -6,7 +6,7 @@ public class Prueba {
         System.out.println("holis");
         System.out.println("holis2");
         System.out.println("holis3");
-        System.out.println("rotsen23");
+        System.out.println("Striker Out");
     }
 
 }
